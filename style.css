@@ -1,0 +1,26 @@
+.heading {
+  text-align: center;
+  }
+.subheadings {
+  font-weight: bold;
+  }
+h4{
+  text-decoration: underline;
+  }
+#main{
+
+  }
+  .image{
+width:30%;
+height: 300px;
+position: absolute;
+padding-left: 700px;
+  }
+  .top{
+    padding-left: 50px;
+
+
+  }
+  .bottom{
+  padding-left: 50px;
+  }
